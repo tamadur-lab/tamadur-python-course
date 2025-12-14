@@ -13,5 +13,6 @@ df = pd.DataFrame ({
    "Age": age,
    "Depression": depression
 })
+print(df)
 df.to_csv("participants.csv", index=False, encoding="utf-8")
 
