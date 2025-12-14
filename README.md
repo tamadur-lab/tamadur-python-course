@@ -9,5 +9,5 @@ The project demonstrates basic Python skills learned during the course, includin
 - Saving data to CSV files
 - Version control with Git and GitHub
 
-Week 1 assignment includes a Python script that generates a CSV file with participants data
+*Week 1 assignment includes a Python script that generates a CSV file with participants data*
 
