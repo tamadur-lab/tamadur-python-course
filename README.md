@@ -1,4 +1,4 @@
-# Introduction to Python – Control versions
+# Introduction to Python – Version Control Assignment
 
 This repository contains assignments from the course "Introduction to Python".
 
