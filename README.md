@@ -3,9 +3,11 @@
 This repository contains assignments from the course "Introduction to Python".
 
 The project demonstrates basic Python skills learned during the course, including:
-- Creating variables and basic data structures
-- Working with pandas
+- Basic Python syntax
+- Working with variables and data structures
+- Using libraries such as pandas
 - Saving data to CSV files
-- Using Git and GitHub for version control
+- Version control with Git and GitHub
 
 Week 1 assignment includes a Python script that generates a CSV file with participant data
+
